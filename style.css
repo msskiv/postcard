@@ -1,0 +1,21 @@
+h1 {font-family: 'Pangolin', cursive;}
+body {
+  background-image: url("img/virus-background.png");
+  background-size: cover;
+
+}
+.banner img {
+  border: 4px solid white;
+}
+
+.corona-text {
+  background: rgba(255,255,255,0.2);
+}
+
+.virusCount {
+  position: fixed;
+  top: 0;
+  padding: 15px;
+  background: rgba(255,255,255,0.2);
+  
+}
